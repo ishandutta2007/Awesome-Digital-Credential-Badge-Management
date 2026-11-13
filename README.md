@@ -1,6 +1,6 @@
 # Awesome-Digital-Credential-Badge-Management
 
-# Top Digital Credential & Badge Management Ecosystem
+## Top Digital Credential & Badge Management Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Open Badges, Verifiable Credentials & Certification Issuance*  
