@@ -21,6 +21,10 @@ Contributions welcome! Open an PR to add/update entries. Keep descriptions factu
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
+
+The global digital badge and credential management software market is valued at approximately **$2.1 billion to $3.1 billion** (with niche micro-badging at ~$300M+), expanding at a compound annual growth rate (**CAGR**) of **17% to 19%** toward **$8B–$12B+** into the 2030s. The sector is **moderately fragmented yet experiencing rapid consolidation**: while the demand and issuance side remains distributed across millions of universities, corporations, and certification bodies, platform infrastructure is concentrating around dominant enterprise ecosystems (such as Pearson's Credly and Instructure/KKR's Canvas Credentials/Parchment) alongside high-velocity modular challenger platforms.
+
 ## SaaS/Hosted Platforms
 
 | Product | Company Size (Valuation / Revenue) | Description | Pricing (Starting) | Free Tier / Trial Limits |
